@@ -19,7 +19,7 @@
 ## Prerequisites
 #### Node.js should be installed on your system as npm would be required.
 #### <ul><li>[Node.js](https://nodejs.org/en/)</li></ul>
-##To run
+## To run
 ### npm run dev
 ## 🎪 Getting Started
 <ul><li>In the root of project folder run : npm run dev</li><li>Server should have started and headover to "http://localhost:5173" to see the project working live 🙌.</li></ul>
