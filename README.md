@@ -5,7 +5,7 @@
 #### This is a web based application which let users use Image generation AI in the backend to create comic book pages by passing prompts and sharing/downloading the generated page.
 
 ## Live Demo
-#### This project is deployed on Netlify which you can view at [Nasty Comics Website](https://stacklimit-community-qna-platform.onrender.com/).
+#### This project is deployed on Netlify which you can view at [Dashtoon website](https://surajpatel-dastoonassignment.vercel.app/).
 
 ## 🧩 Main Features
 #### <ul><li>Minimalistic & Responsive UI</li><li>Comic strip generation using text-to-image API</li><li>Share & Download your created comic page</li>
@@ -19,7 +19,8 @@
 ## Prerequisites
 #### Node.js should be installed on your system as npm would be required.
 #### <ul><li>[Node.js](https://nodejs.org/en/)</li></ul>
-
+##To run
+### npm run dev
 ## 🎪 Getting Started
 <ul><li>In the root of project folder run : npm run dev</li><li>Server should have started and headover to "http://localhost:5173" to see the project working live 🙌.</li></ul>
 
