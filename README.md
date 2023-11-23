@@ -26,10 +26,6 @@
 
 # 🖼️ Some glimpse of the website
 
-## Home Page
-<img src="./public/homepage.png">
-<br />
-
 ## Create Comic Page
 <img src="./public/createpage.png">
 <br />
